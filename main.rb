@@ -7,3 +7,8 @@ require './filters'
 ## Your test code can go here
 
 pp @candidates
+pp find(5)
+pp experienced?(@candidates[0])
+pp qualified_candidates(@candidates)
+pp ordered_by_qualifications(@candidates)
+
